@@ -1,0 +1,38 @@
+[
+  {
+    "amount": 5.0,
+    "category": "Food and Drink",
+    "date": "2026-05-28",
+    "description": "Coffee"
+  },
+  {
+    "amount": 12.0,
+    "category": "Food and Drink",
+    "date": "2026-05-28",
+    "description": "Greek Fries"
+  },
+  {
+    "amount": 75.0,
+    "category": "Bill",
+    "date": "2026-05-28",
+    "description": "Phone Bill"
+  },
+  {
+    "amount": 4.5,
+    "category": "Food and Drink",
+    "date": "2026-05-01",
+    "description": "Coffee"
+  },
+  {
+    "amount": 1500,
+    "category": "Bill",
+    "date": "2026-06-01",
+    "description": "Rent"
+  },
+  {
+    "date": "2026-06-02",
+    "description": "Barnes & Nobles",
+    "category": "Extra Spend",
+    "amount": 100
+  }
+]
